@@ -1,4 +1,4 @@
-package gusha
+package main
 
 import (
 	"fmt"
